@@ -140,3 +140,20 @@ Metro-Ticket-Booking-Application
     ├── Project-Overview.md
     ├── Configuration.md
     └── Testing.md
+
+## Final Test Result
+
+The Metro Ticket Booking Application was successfully tested through the Service Portal.
+
+The following functions were verified:
+
+- Metro station selection
+- Metro ticket booking form
+- Mandatory field validation
+- Payment mode UI Policy
+- QR code generation
+- QR code display
+- Flow Designer execution
+- End-to-end ticket submission
+
+All major functional tests passed successfully.
