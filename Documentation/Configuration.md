@@ -224,3 +224,12 @@ Conditional payment field visibility
 QR code generation
 Ticket submission
 Ticket data storage
+---
+
+## Security
+
+The application follows ServiceNow's role-based access approach.
+
+Access to the Metro Ticket Booking functionality is controlled through ServiceNow application permissions and user access.
+
+The application is designed so that passengers can submit and view their ticket requests, while administrative and workflow activities can be handled by authorized users.
