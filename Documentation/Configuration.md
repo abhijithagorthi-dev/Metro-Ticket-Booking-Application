@@ -20,6 +20,25 @@ The table stores the available metro stations that can be selected while booking
 
 ---
 
+## Variable-to-Application Mapping
+
+The Metro Ticket Booking catalog item collects passenger booking information through catalog variables.
+
+The main mapping is:
+
+| Catalog Variable | Purpose |
+|---|---|
+| Starting From | Selects the source metro station |
+| Going To | Selects the destination metro station |
+| Type of Journey | Selects single or return journey |
+| No of Passengers | Specifies number of passengers |
+| Amount for Single Journey | Stores calculated single journey amount |
+| Amount Including Return | Stores return journey amount |
+| Mode of Payment | Selects payment method |
+| Enter Payment Mode | Captures additional payment details when Others is selected |
+
+These variables are used by the catalog submission and automation logic to process the metro ticket request.
+
 ## 2. Catalog Item
 
 A Service Catalog item was created for metro ticket booking.
