@@ -55,3 +55,23 @@ The user can:
 ## Project Outcome
 
 The application provides an end-to-end digital metro ticket booking workflow through ServiceNow, from user ticket submission to ticket processing and QR-based ticket generation.
+
+---
+## Project Development Phases
+
+The project was developed through the following phases:
+
+### Phase 1 – Catalog Creation
+Created the Metro Ticket Booking catalog item and configured the required variables.
+
+### Phase 2 – Form Setup
+Configured station references, journey type, passenger selection, payment options, and conditional form behaviour.
+
+### Phase 3 – Logic and QR Integration
+Implemented the ticket processing logic and QR code generation/display.
+
+### Phase 4 – Testing and UAT
+Tested the application through the Service Portal and verified the major user flows and automation.
+
+### Phase 5 – Documentation
+Documented the configuration, setup procedure, testing process, and captured screenshots for project submission.
