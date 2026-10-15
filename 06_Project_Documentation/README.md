@@ -13,7 +13,7 @@ The project documentation is organized into the following files:
 - **Setup-Guide.md:** Explains how to configure the main application components in ServiceNow.
 - **Testing.md:** Records functional tests and their results.
 
-These files are available in the repository's `Documentation` folder.
+
 
 ## 3. Implementation Summary
 
